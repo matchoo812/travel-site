@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "lazysizes": "^5.2.2",
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
     "webpack": "^4.43.0",
