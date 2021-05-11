@@ -7,7 +7,7 @@
     "elliptic": "^6.5.4",
     "ini": "^2.0.0",
     "lazysizes": "^5.2.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "ssri": "^8.0.1",
     "webpack": "^4.43.0",
